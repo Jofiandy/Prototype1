@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from array import array
 import urllib.request
 from urllib.request import urlretrieve
 import wget
